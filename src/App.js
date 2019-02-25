@@ -24,10 +24,10 @@ class App extends Component {
             Learn React
           </a>
         </header> */}
-        <Form />
         <Nav />
         <Owl />
         <Friend />
+        <Form myProp = "Hello" name="charmi" />
       </div>
     );
   }
